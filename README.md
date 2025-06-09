@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Luis Eduardo</h1>
-<p align="center">
+<h1 align="left">Hi, I'm Luis Eduardo</h1>
+<p align="left">
   Computer Systems Engineering Student @ ITESO  
   <br>
   Home Lab & SysAdmin Enthusiast | PC Builds | Linux Learner  
@@ -15,15 +15,15 @@
 - Currently experimenting with TrueNAS, Nextcloud, Tailscale, and other self-hosted tools.
 - I also enjoy hosting game servers for friends (like Minecraft and TF2).
 - I'm studying Computer Systems Engineering at ITESO.
-- Preparing for CCNA and Linux Essentials certifications and planning to obtain more challenging ones later on.
+- Preparing for CCNA and Linux Essentials certifications and planning to obtain more advanced ones later on.
 
 ---
 
 ### Tech Stack
-<h3 align="center">Stack tecnológico</h3>
+<h3 align="left">Stack tecnológico</h3>
 
-<h4 align="center">Lenguajes de programación y marcado</h4>
-<p align="center">
+<h4 align="left">Lenguajes de programación y marcado</h4>
+<p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></a>
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/></a>
@@ -32,8 +32,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
 </p>
 
-<h4 align="center">Herramientas y plataformas</h4>
-<p align="center">
+<h4 align="left">Herramientas y plataformas</h4>
+<p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/></a>
@@ -42,8 +42,8 @@
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
 </p>
 
-<h4 align="center">Sistemas operativos y CLI</h4>
-<p align="center">
+<h4 align="left">Sistemas operativos y CLI</h4>
+<p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/></a>
   <a href="https://www.redhat.com/"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RedHat" width="40"/></a>
   <a href="https://www.truenas.com/"><img src="https://avatars.githubusercontent.com/u/72977142?s=200&v=4" alt="TrueNAS Scale" width="40"/></a>
