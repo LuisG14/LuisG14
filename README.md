@@ -58,4 +58,4 @@
 ### Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/luiseduardogonzalezgloria/)  
-- Still building this portfolio! More updates soon on [GitHub](https://github.com/LuisG14)
+- Still building this portfolio! More updates soon.
