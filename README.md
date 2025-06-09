@@ -53,6 +53,8 @@
   <a href="https://support.apple.com/macos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="40"/></a>
 </p>
 
+---
+
 ### Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/luiseduardogonzalezgloria/)  
