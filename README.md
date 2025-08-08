@@ -20,9 +20,9 @@
 ---
 
 ### Tech Stack
-<h3 align="left">Stack tecnológico</h3>
+<h3 align="left">Technical Stack</h3>
 
-<h4 align="left">Lenguajes de programación y marcado</h4>
+<h4 align="left">Programming Languages and Frameworks</h4>
 <p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></a>
@@ -32,7 +32,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
 </p>
 
-<h4 align="left">Herramientas y plataformas</h4>
+<h4 align="left">Tools and Platforms</h4>
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
@@ -42,7 +42,7 @@
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
 </p>
 
-<h4 align="left">Sistemas operativos y CLI</h4>
+<h4 align="left">Operating Systems and CLI</h4>
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/></a>
   <a href="https://www.redhat.com/"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RedHat" width="40"/></a>
