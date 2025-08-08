@@ -20,7 +20,6 @@
 ---
 
 ### Tech Stack
-<h3 align="left">Technical Stack</h3>
 
 <h4 align="left">Programming Languages and Frameworks</h4>
 <p align="left">
