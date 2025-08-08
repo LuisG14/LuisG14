@@ -45,7 +45,6 @@
 <p align="left">
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/></a>
   <a href="https://www.redhat.com/"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="RedHat" width="40"/></a>
-  <a href="https://www.truenas.com/"><img src="https://avatars.githubusercontent.com/u/72977142?s=200&v=4" alt="TrueNAS Scale" width="40"/></a>
   <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/"><img src="https://img.icons8.com/color/48/virtual-machine.png" alt="Hyper-V" width="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40"/></a>
   <a href="https://www.microsoft.com/windows/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40"/></a>
